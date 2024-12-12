@@ -1,5 +1,3 @@
-can u make a read.me explaining how the app works and how to use it
-Absolutely! Here's a detailed README.mdfor your advanced e-commerce API app.
 
 Advanced E-commerce API
 Introduction
